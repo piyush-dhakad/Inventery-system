@@ -1,0 +1,7 @@
+to Run this project
+1 install Python 
+2 set environment variable 
+3 open project folder "Inventery system" in CMD
+4 type python login.py
+usenid 3
+password 123
